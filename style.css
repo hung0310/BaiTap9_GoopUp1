@@ -1,0 +1,18 @@
+.container {
+    position: relative;
+}
+
+.gradient {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 298px;
+    height: 154px;
+    border-radius: 0.5rem;
+    background: linear-gradient(0deg, rgba(49, 56, 96, 0.16) 0%, rgba(21, 25, 40, 0.88) 100%);
+}
+
+.text-xs {
+    font-size: unset !important;
+    font-size: 0.8rem !important;
+}
